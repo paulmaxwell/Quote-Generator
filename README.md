@@ -1,4 +1,4 @@
 # Quote-Generator
-Quote generator using API
+Quote generator using an API
 
-Demo: https://villain101.github.io/Quote-Generator/index.html
+Demo: https://paulmaxwell.github.io/Quote-Generator/index.html
